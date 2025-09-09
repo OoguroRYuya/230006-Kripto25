@@ -15,12 +15,11 @@ Saat dijalankan, user akan melihat menu utama:
 
 === Hill Cipher ===
 
-- 1. Enkripsi
-- 2. Dekripsi
-- 3. Cari Kunci
-- 4. Contoh
-- 5. Keluar
-
+1. Enkripsi
+2. Dekripsi
+3. Cari Kunci
+4. Contoh
+5. Keluar
 
 ### 1. Enkripsi
 - Input ukuran matriks kunci (contoh: `2` untuk matriks 2×2).  
@@ -99,42 +98,42 @@ gcd(det(K), 26) = 1
 ## 📌 Contoh Pemakaian
 ### Enkripsi
 
-Pilih menu [1-5]: 1
-Ukuran matriks kunci: 2
-Baris 1: 3 3
-Baris 2: 2 5
-Plaintext: HELLO
-Ciphertext: ZEBBW
+- Pilih menu [1-5]: 1
+- Ukuran matriks kunci: 2
+- Baris 1: 3 3
+- Baris 2: 2 5
+-  Plaintext: HELLO
+- Ciphertext: ZEBBW
 
 ### Dekripsi
-Pilih menu [1-5]: 2
-Ukuran matriks kunci: 2
-Baris 1: 3 3
-Baris 2: 2 5
-Ciphertext: ZEBBW
-Plaintext: HELLO
+- Pilih menu [1-5]: 2
+- Ukuran matriks kunci: 2
+- Baris 1: 3 3
+- Baris 2: 2 5
+- Ciphertext: ZEBBW
+- Plaintext: HELLO
 
 ### Cari Kunci
-Pilih menu [1-5]: 3
-Ukuran matriks kunci: 2
-Plaintext: HELP
-Ciphertext: ZEBB
-Kunci ditemukan:
-[[3 3]
-[2 5]]
+- Pilih menu [1-5]: 3
+- Ukuran matriks kunci: 2
+- Plaintext: HELP
+- Ciphertext: ZEBB
+- Kunci ditemukan:
+- [[3 3]
+- [2 5]]
 
 
----
+-- -
 
 ## 📌 Catatan
 - Jika saat memakai fitur **Cari Kunci** muncul error *"Matriks plaintext tidak invertibel modulo 26"*, itu artinya pasangan plaintext–ciphertext yang dimasukkan **tidak bisa digunakan** untuk menemukan kunci (secara matematis tidak mungkin).  
 - Gunakan pasangan lain dengan panjang yang sesuai dan matriks plaintext yang invertibel.  
 
 ## 📌Bukti screenshoot
-- ![Enkripsi](Github Push\230006-Kripto25\HillCipher\Screenshots\Enkripsi.png)
-- ![Dekripsi](Github Push\230006-Kripto25\HillCipher\Screenshots\Dekripsi.png)
-- ![Cari_Kunci](Github Push\230006-Kripto25\HillCipher\Screenshots\Cari Kunci.png)
-- ![Contoh](Github Push\230006-Kripto25\HillCipher\Screenshots\Contoh.png)
-- ![Keluar_Program](Github Push\230006-Kripto25\HillCipher\Screenshots\Keluar Program.png)
+![Enkripsi](Screenshots\Enkripsi.png)
+![Dekripsi](Screenshots\Dekripsi.png)
+![Cari_Kunci](Screenshots\Cari Kunci.png)
+![Contoh](Screenshots\Contoh.png)
+![Keluar_Program](Screenshots\Keluar Program.png)
 
 
