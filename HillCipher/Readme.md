@@ -15,15 +15,11 @@ Saat dijalankan, user akan melihat menu utama:
 
 === Hill Cipher ===
 
-Enkripsi
-
-Dekripsi
-
-Cari Kunci
-
-Contoh
-
-Keluar
+- 1. Enkripsi
+- 2. Dekripsi
+- 3. Cari Kunci
+- 4. Contoh
+- 5. Keluar
 
 
 ### 1. Enkripsi
@@ -135,4 +131,10 @@ Kunci ditemukan:
 - Gunakan pasangan lain dengan panjang yang sesuai dan matriks plaintext yang invertibel.  
 
 ## 📌Bukti screenshoot
--![Enkripsi](C:\Users\User\OneDrive\Documents\Semester 5\Prak Kripto\Github Push\230006-Kripto25\HillCipher\Screenshots\Enkripsi.png)
+- ![Enkripsi](Github Push\230006-Kripto25\HillCipher\Screenshots\Enkripsi.png)
+- ![Dekripsi](Github Push\230006-Kripto25\HillCipher\Screenshots\Dekripsi.png)
+- ![Cari_Kunci](Github Push\230006-Kripto25\HillCipher\Screenshots\Cari Kunci.png)
+- ![Contoh](Github Push\230006-Kripto25\HillCipher\Screenshots\Contoh.png)
+- ![Keluar_Program](Github Push\230006-Kripto25\HillCipher\Screenshots\Keluar Program.png)
+
+
