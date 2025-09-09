@@ -130,10 +130,10 @@ gcd(det(K), 26) = 1
 - Gunakan pasangan lain dengan panjang yang sesuai dan matriks plaintext yang invertibel.  
 
 ## 📌Bukti screenshoot
-![Enkripsi](Screenshots\Enkripsi.png)
-![Dekripsi](Screenshots\Dekripsi.png)
-![Cari_Kunci](Screenshots\CariKunci.png)
-![Contoh](Screenshots\Contoh.png)
-![Keluar_Program](Screenshots\KeluarProgram.png)
+![Enkripsi](screenshots\enkripsi.png)
+![Dekripsi](screenshots\dekripsi.png)
+![Cari_Kunci](screenshots\carikunci.png)
+![Contoh](screenshots\contoh.png)
+![Keluar_Program](screenshots\keluarprogram.png)
 
 
