@@ -105,4 +105,3 @@ Mengakhiri program dengan pesan perpisahan.
 ![Enkripsi](Screenshots/Enkripsi.png)  
 ![Dekripsi](Screenshots/Dekripsi.png)  
 ![Contoh](Screenshots/Contoh.png)  
-![Keluar_Program](Screenshots/keluarprogram.png)  

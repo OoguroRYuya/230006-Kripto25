@@ -111,5 +111,5 @@ Jika `p` bukan prima, sistem enkripsi tidak valid.
 ---
 
 ## 📌 Bukti Screenshoot
-![Enkripsi](Screenshots\enkripsi.png)  
-![Dekripsi](Screenshots\dekripsi.png) 
+![Enkripsi](Screenshots/Enkripsi.png)  
+![Dekripsi](Screenshots/Dekripsi.png) 
