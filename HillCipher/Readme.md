@@ -132,8 +132,8 @@ gcd(det(K), 26) = 1
 ## 📌Bukti screenshoot
 ![Enkripsi](Screenshots/Enkripsi.png)
 ![Dekripsi](Screenshots/Dekripsi.png)
-![Cari_Kunci](Screenshots/Carikunci.png)
+![Cari_Kunci](Screenshots/CariKunci.png)
 ![Contoh](Screenshots/Contoh.png)
-![Keluar_Program](Screenshots/Keluarprogram.png)
+![Keluar_Program](Screenshots/KeluarProgram.png)
 
 
